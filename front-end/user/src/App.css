@@ -1,0 +1,30 @@
+.main{
+  background-image: url(./images/wall.jpg);
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+}
+
+.main-2{
+  border: 1px solid transparent;
+  background-color: rgba(0, 0, 0, .3);
+  border-radius: 20px;
+  color: white;
+}
+
+.main-2 input{
+  background-color: rgba(0, 0, 0, .3);
+  border-radius: 10px;
+}
+
+.mtb2{
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.mtb2 input{
+  color: white;
+  padding: 10px;
+}
+

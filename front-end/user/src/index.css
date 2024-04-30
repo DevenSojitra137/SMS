@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.main{
+  width: 100%;
+}
+
+.tag a{
+  list-style: none;
+  text-decoration: none;
+  color: black;
+}
+
+.teg{
+  font-size: 60px;
+}
+
+/* ==================================== part1 ========================================== */
+
+
+.img{
+  /* background-image: url("D:\full project\front-end\front\src\images\asset 1.jpeg"); */
+  height: 100vh;
+  width: 100%;
+  /* object-fit: cover; */
+  background-size: cover;
+}
+
+.m1{
+  padding-top: 300px;
+}
+
+/* ======================================== userlogin =========================== */
+
+
